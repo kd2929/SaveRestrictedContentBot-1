@@ -8,7 +8,7 @@
         "save restricted",
         "bot"
     ],
-    "repository": "https://github.com/im-vivektomar/SaveRestrictedContentBot",
+    "repository": "https://github.com/kd2929/SaveRestrictedContentBot",
     "website": "",
     "success_url": "https://t.me/VTBots",
     "env": {
