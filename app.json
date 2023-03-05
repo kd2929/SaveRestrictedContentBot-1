@@ -14,19 +14,19 @@
     "env": {
         "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
-            "value": ""
+            "value": "b4399953ddf2f8493f6fc542c1307a05"
         },
         "API_ID": {
             "description": "Your API ID from my.telegram.org",
-            "value": ""
+            "value": "15547180"
         },
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
-            "value": ""
+            "value": "5749934872:AAG-587vcaLWEW8aZh2kcnOIahpbmBfEmtk"
         },
         "SESSION": {
             "description": "pyrogram string session.",
-            "value": ""
+            "value": "AQB2UgmtyfmeB8cCVy2ZL9nrch-0YGdUrBop8aRc0Xa0LU0jpHa3dGWMtpDAknAWXEnSdzmIhlfoLV1skulM4IixYaUoma23STCApNCRr-yJBsZrNPvzC0ZIBWwQScpZej-Voe5Xf8VksMUDEDs0Jn8D-m5lTQGuaIYyWNJUKFjZitKfCCKYNfuMf55F0-pc4jlDdfPoqA-OKOtrMs8o_02_xhsmo5nNSnsm6VaGuV2GLi24txZgCAkflu2hVtOHKSItKg0-6o9QMGQdYKCbOrfqlkWL2zWFIxK2to7uU7JIPsLogVqX0R_prpI6rqIv2AsmwcZ68G0VPoKmFQIkFhhZAAAAAVmkptkA"
         }
     },
     "buildpacks": [
